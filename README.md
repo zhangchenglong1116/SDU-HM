@@ -1,1 +1,1 @@
-Maximum Mass based Band Selection and Adaptive Local-Global Feature Fusion Weakly Supervised Framework for Effective Classification of Microscopic Hyperspectral Benchmark Dataset
+Microscopic Hyperspectral Benchmark Dataset for Histopathological Classification with a Novel Band Selection and Feature Fusion-Based Weakly Supervised Learning Framework
